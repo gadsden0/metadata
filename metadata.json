@@ -1,0 +1,15 @@
+{
+    "name": "Testicle Coin",
+    "symbol": "TEST",
+    "description": "Testicle coin: designed to raise awareness and funds for testicular cancer.",
+    "image": "https://us.123rf.com/450wm/maryvalery/maryvalery2112/maryvalery211200044/180502019-scrotum-cartoon-illustration-male-balls-vector-illustration.jpg",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://us.123rf.com/450wm/maryvalery/maryvalery2112/maryvalery211200044/180502019-scrotum-cartoon-illustration-male-balls-vector-illustration.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "category": "image"
+    }
+  }
